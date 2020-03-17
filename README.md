@@ -1,4 +1,4 @@
-# special-char-utility
+# special-char-utility by PlanMan1717
 A quick, fast, easy, and simple way to add symbols quickly to your works.
 This utility is designed to be lightweight, and easily modified to your tastes.
 
